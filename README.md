@@ -34,4 +34,4 @@ We built a **real-time explainable credit scorecard** that:
 
 ---
 
-## 🏗️ Architecture
+
